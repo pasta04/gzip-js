@@ -21,7 +21,7 @@
 	},
 	"dependencies": {
 		"crc32": ">= 0.2.2",
-		"deflate-js": ">= 0.2.2"
+		"deflate-js": "git+https://github.com/pasta04/deflate-js.git"
 	},
 	"devDependencies": {
 		"optimist": "~0.2"
